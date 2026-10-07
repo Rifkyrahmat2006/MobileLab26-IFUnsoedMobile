@@ -263,6 +263,8 @@ GempaKini/
 - **Theme:** dynamicColor sengaja disabled (`GempaKiniTheme` pakai custom scheme, bukan dynamic), supaya palet custom konsisten di semua device/API level.
 - **Icons:** Tidak pakai `Icons.Default` (itu butuh material-icons-extended, lib terpisah yang tidak di-list izin). Pakai Text symbol emoji/karakter (`←`, 🔍) sebagai ganti.
 
+## Video Penjelasan Source Code
+https://drive.google.com/file/d/1C9zFl2iDj-MEKnV6Vzvu1pF-R_bFKSSk/view?usp=sharing
 ---
 
 **Dibuat:** Oktober 2026  
