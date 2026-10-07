@@ -5,55 +5,13 @@ Aplikasi mobile Android native Kotlin + Jetpack Compose untuk menampilkan data g
 ## 📸 Screenshots
 
 ### Home Screen
-```
-┌─────────────────────────┐
-│ GempaKini               │
-├─────────────────────────┤
-│ 🔍 Ketik nama wilayah   │
-├─────────────────────────┤
-│ ┌─────────────────────┐ │
-│ │ Kab. Malang         │ │
-│ │ Tanggal: 06 Okt     │ │
-│ │ Magnitudo: 4.5      │ │
-│ └─────────────────────┘ │
-│ ┌─────────────────────┐ │
-│ │ Kota Surabaya       │ │
-│ │ Tanggal: 05 Okt     │ │
-│ │ Magnitudo: 3.2      │ │
-│ └─────────────────────┘ │
-└─────────────────────────┘
-```
+![Home Screen](GempaKini-HomeScreen.jpg)
 - **Top bar:** Judul "GempaKini"
 - **Search bar:** Filter daftar gempa berdasarkan nama wilayah (case-insensitive)
 - **List:** LazyColumn gempa dengan Tanggal, Magnitudo, Wilayah — klik item masuk detail
 
 ### Detail Screen
-```
-┌─────────────────────────┐
-│ ← Detail Gempa          │
-├─────────────────────────┤
-│ Tanggal                 │
-│ 06 Okt 2026             │
-│                         │
-│ Jam                     │
-│ 14:30:00 WIB            │
-│                         │
-│ Coordinates             │
-│ -7.50,112.30            │
-│                         │
-│ Magnitudo               │
-│ 4.5                     │
-│                         │
-│ Kedalaman               │
-│ 10 km                   │
-│                         │
-│ Wilayah                 │
-│ Kab. Malang             │
-│                         │
-│ Potensi                 │
-│ Tidak berpotensi tsunami│
-└─────────────────────────┘
-```
+![Detail Screen](GempaKini-DetailScreen.jpg)
 - **Top bar:** Judul "Detail Gempa" + tombol back (←)
 - **Content:** 7 field detail (Tanggal, Jam, Coordinates, Magnitudo, Kedalaman, Wilayah, Potensi)
 - **Tombol back:** Kembali ke Home dan list terfilter yang sebelumnya
