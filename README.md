@@ -6,12 +6,14 @@ Aplikasi mobile Android native Kotlin + Jetpack Compose untuk menampilkan data g
 
 ### Home Screen
 <img src="GempaKini-HomeScreen.jpg" width="300" alt="Home Screen">
+
 - **Top bar:** Judul "GempaKini"
 - **Search bar:** Filter daftar gempa berdasarkan nama wilayah (case-insensitive)
 - **List:** LazyColumn gempa dengan Tanggal, Magnitudo, Wilayah — klik item masuk detail
 
 ### Detail Screen
 <img src="GempaKini-DetailScreen.jpg" width="300" alt="Detail Screen">
+
 - **Top bar:** Judul "Detail Gempa" + tombol back (←)
 - **Content:** 7 field detail (Tanggal, Jam, Coordinates, Magnitudo, Kedalaman, Wilayah, Potensi)
 - **Tombol back:** Kembali ke Home dan list terfilter yang sebelumnya
