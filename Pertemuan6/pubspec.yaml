@@ -1,0 +1,6 @@
+name: pertemuan6_dart
+
+description: Percobaan Bahasa Pemrograman Dart Pertemuan 6.
+
+environment:
+  sdk: ">=3.13.0 <4.0.0"

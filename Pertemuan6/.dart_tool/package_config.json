@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "pertemuan6_dart",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.13"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.13.5",
+  "flutterRoot": "file:///home/rifkyprakoso/development/flutter",
+  "flutterVersion": "3.47.7",
+  "pubCache": "file:///home/rifkyprakoso/.pub-cache"
+}
